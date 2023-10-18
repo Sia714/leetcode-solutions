@@ -7,5 +7,5 @@
 | 2 | [2_removelinkedlistelements](https://github.com/Sia714/leetcode-solutions/blob/main/linked%20list/2_removelinkedlistelements.cpp) | Remove the given value from the linked list and return the head of new linked list |
 | 3 | [3_linkedlistcycle](https://github.com/Sia714/leetcode-solutions/blob/main/linked%20list/3_linkedlistcycle.cpp) | Determine if a linked list has a cycle or not |
 | 4 | [4_middlenodelinkedlist](https://github.com/Sia714/leetcode-solutions/blob/main/linked%20list/4_middlenodelinkedlist.cpp) | Return the middle node of the linked list. |
-| 4 | [4_middlenodelinkedlist](https://github.com/Sia714/leetcode-solutions/blob/main/linked%20list/4_middlenodelinkedlist.cpp) | Return the middle node of the linked list. |
-https://github.com/Sia714/leetcode-solutions/blob/main/linked%20list/5_reverselinkedlist.cpp
+| 5 | [4_middlenodelinkedlist](https://github.com/Sia714/leetcode-solutions/blob/main/linked%20list/5_reverselinkedlist.cpp) | Return the middle node of the linked list. |
+
