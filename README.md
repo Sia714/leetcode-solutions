@@ -1,5 +1,5 @@
-# leetcode-solutions
-## linked list 
+# Leetcode Solutions
+## Linked List 
 
 | S.No. | File Name | Overview |
 |-------|-----------|----------|
