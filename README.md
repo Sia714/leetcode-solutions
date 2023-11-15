@@ -10,3 +10,6 @@
 | 5 | [5_reverselinkedlist.cpp](https://github.com/Sia714/leetcode-solutions/blob/main/linked%20list/5_reverselinkedlist.cpp) | Given the head of a singly linked list, reverse the list, and return the reversed list. |
 
 ## Two pointer approach
+| S.No. | File Name | Overview |
+|-------|-----------|----------|
+| 1 | [1-2 sum](https://github.com/Sia714/leetcode-solutions/blob/main/Two%pointer%approach/1-2sum) | -- |
