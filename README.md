@@ -14,3 +14,5 @@
 |-------|-----------|----------|
 | 1 | [1-2 sum](https://github.com/Sia714/leetcode-solutions/blob/main/Two%pointer%approach/1-2sum) | -- |
 | 1 | [15-3sum](https://github.com/Sia714/leetcode-solutions/blob/main/Two%pointer%approach/15-3sum) | -- |
+| 1 | [167-two-sum-ii-input-array-is-sorted](https://github.com/Sia714/leetcode-solutions/blob/main/Two%pointer%approach/167-two-sum-ii-input-array-is-sorted) | -- |
+
