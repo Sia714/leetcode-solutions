@@ -12,7 +12,7 @@
 ## Two pointer approach
 | S.No. | File Name | Overview |
 |-------|-----------|----------|
-| 1 | [1-2 sum](https://github.com/Sia714/leetcode-solutions/blob/main/Two%pointer%approach/1-2-sum) | -- |
+| 1 | [1-2 sum.cpp](https://github.com/Sia714/leetcode-solutions/blob/main/Two%pointer%approach/1-2-sum) | -- |
 | 2 | [15-3 sum](https://github.com/Sia714/leetcode-solutions/blob/main/Two%pointer%approach/15-3sum) | -- |
 | 3 | [167-two sum ii input array is sorted](https://github.com/Sia714/leetcode-solutions/blob/main/Two%pointer%approach/167-two-sum-ii-input-array-is-sorted) | -- |
 | 3 | [75-sort-colors](https://github.com/Sia714/leetcode-solutions/blob/main/Two%pointer%approach/75-sort-colors) | -- |
