@@ -3,7 +3,7 @@ using namespace std;
 
 
 struct node
-{ // this is just a blueprint
+{ 
     int data;
     node *next;
     node(int x)
@@ -21,14 +21,9 @@ void printData(node *head)
         temp = temp->next;
     }
     cout << endl;
-    /*if (head==NULL){
-        return;
-    }
-    cout<<head->data<<" ";
-    printData(head->next);*/
 }
 node *insert_beg(node *head, int x)
-{ // this function will throw an address so pointer will catch it
+{ 
     node *temp = new node(x);
     temp->next = head;
     return temp;
@@ -65,7 +60,7 @@ void midnode(node *head)
     cout << c->data<<endl;
 }
 void midnodesing(node *head)
-{ // both have same order - O(n)
+{ 
     node *slow = head;
     node *fast = head;
     while (fast != NULL && fast->next != NULL)
