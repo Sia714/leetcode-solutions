@@ -17,3 +17,4 @@
 | 3 | [167-two sum ii input array is sorted](https://github.com/Sia714/leetcode-solutions/blob/main/Two%pointer%approach/167-two-sum-ii-input-array-is-sorted) | -- |
 | 3 | [75-sort-colors](https://github.com/Sia714/leetcode-solutions/blob/main/Two%pointer%approach/75-sort-colors) | -- |
 
+##Arrays
