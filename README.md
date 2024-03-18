@@ -20,6 +20,6 @@
 ## Arrays
 | S.No | File Name | Overview |
 |------|-----------|----------|
-| 1 | e |  |
+| 1 | [344-reverse-string]() |  |
 
 ## Tree
