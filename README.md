@@ -23,6 +23,7 @@
 | S.No | File Name | Overview |
 |------|-----------|----------|
 | 1 | [344-reverse-string]() |  |
+| 2 | [4-median of Two Sorted Arrays]() |  |
 
 ## Tree
 
