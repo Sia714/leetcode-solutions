@@ -1,5 +1,3 @@
-
-
 # Leetcode Solutions
 ## Linked List 
 
@@ -17,13 +15,15 @@
 | 1 | [1-2 sum.cpp](https://github.com/Sia714/leetcode-solutions/tree/dd7ac995e2b6ee5b56bc1147478607d3c15f278c/Two%20pointer%20approach/1-two-sum) | sum of two |
 | 2 | [15-3 sum](https://github.com/Sia714/leetcode-solutions/tree/baf518e40b80bd770c3417dde83a3014454f3f26/Two%20pointer%20approach/15-3sum) | -- |
 | 3 | [167-two sum ii input array is sorted](https://github.com/Sia714/leetcode-solutions/blob/main/Two%pointer%approach/167-two-sum-ii-input-array-is-sorted) | -- |
-| 4 | [75-sort-colors] (https://github.com/Sia714/leetcode-solutions/blob/main/Two%pointer%approach/75-sort-colors) | -- |
+| 4 | [75-sort-colors](https://github.com/Sia714/leetcode-solutions/blob/main/Two%pointer%approach/75-sort-colors) | -- |
 
 ## Arrays
 | S.No | File Name | Overview |
 |------|-----------|----------|
 | 1 | [344-reverse-string]() |  |
 | 2 | [4-median of Two Sorted Arrays]() |  |
+| 3 | [414-third-maximum-number]() |  |
+| 4 | [1408-find-the-smallest-divisor-.]() |  |
 
 ## Tree
 
