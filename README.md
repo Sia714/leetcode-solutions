@@ -23,7 +23,7 @@
 | 1 | [344-reverse-string]() |  |
 | 2 | [4-median of Two Sorted Arrays]() |  |
 | 3 | [414-third-maximum-number]() |  |
-| 4 | [1408-find-the-smallest-divisor-.]() |  |
+| 4 | [1408-find-the-smallest-divisor-given-a-threshold]() |  |
 
 ## Tree
 
