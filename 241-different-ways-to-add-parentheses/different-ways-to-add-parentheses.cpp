@@ -11,7 +11,7 @@ public:
         }
         
         if (isNumber) {
-            result.push_back(stoi(s.substr(l, h - l + 1))); // Convert substring to integer
+            result.push_back(stoi(s.substr(l, h - l + 1)));
             return result;
         }
         for(int i=l;i<=h;i++){
