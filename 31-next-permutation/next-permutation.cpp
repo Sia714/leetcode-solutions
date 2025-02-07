@@ -1,12 +1,9 @@
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
-        int k=-1;
-        int n=nums.size();
-        int i=n-2,j;
-        for(;i>=0;i--){
+        int n=nums.size(),i,j;
+        for(i=n-2;i>=0;i--){
             if(nums[i]<nums[i+1]){
-                k=i;
                 break;
             }
         }
