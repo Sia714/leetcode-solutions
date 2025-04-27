@@ -20,8 +20,20 @@ public:
         
     }
     bool canJump(vector<int>& nums){
-        vector<int> dp(nums.size()+1,-1);
-        return helper(nums,0,dp);
+        // vector<int> dp(nums.size()+1,-1);
+        // return helper(nums,0,dp);
+        int n=nums.size();
+        vector<bool> dp(n,false);
+        dp[0]=true;
+        for(int i=0;i<n;i++){
+            if(dp[i]){
+                int fj=min(n-1,i+nums[i]);
+                for(int j=0;j<=fj;j++){
+                    dp[j]=true;
+                }
+            }
+        }
+        return dp[n-1];
         
     }
 };
