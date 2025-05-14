@@ -20,14 +20,10 @@ public:
          if (n == 0) return dp;
        dp.push_back({1});
         for(int i=1;i<n;i++){
-            vector<int> temp;
-            temp.push_back(1);
+            vector<int> temp(i+1,1);
             for(int j=1;j<i;j++){
-                temp.push_back(dp[i-1][j-1]+dp[i-1][j]);
+                temp[j]=dp[i-1][j-1]+dp[i-1][j];
             }
-            temp.push_back(1);
-            display(temp);
-            display(dp);
             dp.push_back(temp);
         }
         return dp;
